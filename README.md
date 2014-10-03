@@ -1,4 +1,5 @@
 # About
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/kmizu/Phantasm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Phantasm is a real time communication tool. Powered by Play framework.
 
